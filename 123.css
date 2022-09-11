@@ -1,0 +1,51 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cris {
+    border-radius: 50%;
+    margin-left: 750px;
+    margin-top: 75px;
+}
+
+.titel {
+    font-size: 75px;
+    margin-left: 600px;
+}
+
+body {
+    background-color: lightskyblue;
+}
+
+.basket {
+    font-size: 50px;
+}
+
+.oscar {
+    font-size: 50px;
+}
+
+.crippa {
+    font-size: 50px;
+}
+
+.cool {
+    font-size: 50px;
+}
+
+.Dexter {
+    font-size: 50px;
+}
+
+.border {
+    max-width: fit-content;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 400px;
+}
+
+.border > p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
